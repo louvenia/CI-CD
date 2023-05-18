@@ -1,0 +1,5 @@
+grep
+Lorem
+DoLoR
+пре[а-я]е
+qwe
